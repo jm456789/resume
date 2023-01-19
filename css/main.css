@@ -7,7 +7,7 @@ h2 span em{margin-left: 15px; padding: 10px 17px 6px 17px; box-sizing: border-bo
 p{margin-top: 10px; font-size: 17px;}
 p + p{font-family:'CerebriSansProL', 'bonL'; font-size: 17px; color: #818181;}
 
-#wrap{display: flex; overflow: hidden; flex-wrap: wrap;}
+#wrap{display: flex; overflow: hidden; flex-wrap: wrap; min-width:1600px;}
 #wrap:after{display: block; content: ""; clear: both;}
 
 aside{width: 450px;} 
